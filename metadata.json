@@ -1,0 +1,7 @@
+{
+  "name": "Eunoia Society",
+  "description": "An operational NGO intelligence-gathering and impact-delivery platform for Bangladesh, featuring a bold neo-brutalist aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
